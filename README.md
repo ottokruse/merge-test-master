@@ -1,3 +1,3 @@
 # merge-test-master
 
-This is a testt
+This is a test!
